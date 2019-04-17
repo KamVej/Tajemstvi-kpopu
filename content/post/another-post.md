@@ -27,6 +27,7 @@ Co se týká barevného provedení, zvolila jsem jednoduchou barvu pozadí, aby 
 
 ###Moodboard
 
+<<<<<<< HEAD
 <img src="https://is.muni.cz/auth/www/457401/I_Feel_Extremely__Blessed.png"
      alt="K-pop moodboard"
      style="margin-right: 10px;" width="650" height="500"/>
@@ -44,3 +45,6 @@ K-pop se stává čím dál tím víc populárnější a tak se v různých čá
 ###Moodboard
 
 <div class="canva-embed" data-design-id="DADXYWwqXlA" data-height-ratio="0.7500" style="padding:75.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADXYWwqXlA&#x2F;view?utm_content=DADXYWwqXlA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">K-pop</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;kamilavejmelkova?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Kamila Vejmelková</a>
+=======
+<img src="https://is.muni.cz/auth/www/457401/I_Feel_Extremely__Blessed.png">
+>>>>>>> new-branch
