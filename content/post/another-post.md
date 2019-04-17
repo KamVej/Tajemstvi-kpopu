@@ -42,3 +42,7 @@ Pro K-pop jsou fanoušci velmi důležití a každá skupina má svůj vlastní 
 K-pop se stává čím dál tím víc populárnější a tak se v různých částech světa každoročně konají K-popové několikadenní festivaly. Největším z nich je **KCON** a ten se koná v LA a v New Yorku v Americe a také v několika státech Evropy.
 
 ###Moodboard
+
+<img src="https://is.muni.cz/auth/www/463498/K-pop.png"
+     alt="Moodboard"
+     style="margin-right: 10px;" width="650" height="500"/>
