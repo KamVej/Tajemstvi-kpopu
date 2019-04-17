@@ -25,6 +25,4 @@ Co se týká barevného provedení, zvolila jsem jednoduchou barvu pozadí, aby 
 
 ***Moodboard***
 
-<img src="https://is.muni.cz/auth/www/457401/I_Feel_Extremely__Blessed.png"
-     alt="K-pop moodboard"
-     style="margin-right: 10px;" width="650" height="500"/>
+<img src="https://is.muni.cz/auth/www/457401/I_Feel_Extremely__Blessed.png">
