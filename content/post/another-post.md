@@ -27,9 +27,6 @@ Co se týká barevného provedení, zvolila jsem jednoduchou barvu pozadí, aby 
 
 ###Moodboard
 
-![První moodboard]
-(I Feel Extremely #Blessed.png)
-
 <img src="https://is.muni.cz/auth/www/457401/I_Feel_Extremely__Blessed.png"
      alt="K-pop moodboard"
      style="margin-right: 10px;" width="650" height="500"/>
@@ -45,6 +42,3 @@ Pro K-pop jsou fanoušci velmi důležití a každá skupina má svůj vlastní 
 K-pop se stává čím dál tím víc populárnější a tak se v různých částech světa každoročně konají K-popové několikadenní festivaly. Největším z nich je **KCON** a ten se koná v LA a v New Yorku v Americe a také v několika státech Evropy.
 
 ###Moodboard
-
-![Druhý moodboard]
-(K-pop.png)
