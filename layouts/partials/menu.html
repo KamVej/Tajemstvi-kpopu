@@ -4,7 +4,6 @@
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
         {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
-        {{ partials "analytics" . }}
         <li class="{{if $active}} active{{end}}">
           <a href="{{ .URL }}">{{ .Name }}</a>
         </li>
@@ -12,4 +11,5 @@
       <li>&hearts; {{ now.Year }} {{ .Site.Params.authors }}</li>
     </ul>
   </nav>
+  {{ partials "analytics" . }}
 </aside>
