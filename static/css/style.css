@@ -3,41 +3,75 @@
   max-width: 800px;
   padding: 20px;
 }
+body {
+  background-color: #FFEBCD;
+}
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
 }
 
+h1 {
+  font-family: Georgia; 
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: left;
+  color: black;
+}
+
+h2 {
+  font-family: Georgia; 
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: left;
+  color: black;
+}
+
+p {
+  font-family: Georgia; 
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: justify;
+  color: black;
+  text-indent: 30px;
+}
+
 footer {
-  border-top: solid;
+    border-top: solid;
   clear: both;
 }
 
 .page {
-  float: right;
-  width: 70%;
-  border-left: solid;
-  padding-left: 1.5em;
-  padding-bottom: 2em;
-  min-height: 400px;
+    float: right;
+    width: 70%;
+    border-left: solid;
+    padding-left: 1.5em;
+    padding-bottom: 2em;
+    min-height: 400px;
 }
 
 aside {
-  float: left;
-  width: 25%;
-  margin-top: 1em;
+    float: left;
+    width: 25%;
+    margin-top: 1em;
 }
 
 nav ul {
-  list-style-type: none;
-  padding: 0;
+    list-style-type: none;
+    padding: 0;
 }
 
 nav li {
-  margin-bottom: 1em;
+    margin-bottom: 1em;
 }
 
 nav .active {
-  font-weight: bold;
+    font-weight: bold;
 }
