@@ -2,26 +2,24 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+# O nás
 
-This are the contents of the Hugo start website front page.
+Jsme dvě studentky FF MUNI oboru Informační studia a knihovnictví. Tato stránka vznikla do předmětu Nástroje a možnosti internetu. Téma tohoto projektu je popularizace K-popu především proto, že je to naše společná záliba a chtěly bychom K-pop představit i jiným lidem.
 
-## Something to read: Sonnet LXVI.
+*Hudba je umění a nezáleží na tom, v jakém jazyce je interpretovaná.*
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+# Seznamte se s K-popem
 
+K-pop je rozrůstající se hudební směr, který pochází z Jižní Koreje.
+Nejedná se o klasický pop, jak ho znáte ze světové hudební scény. 
+K-pop v sobě ukrývá několik hudebních směrů: pop, hip-hop, rock, R&B, EDM, folk, jazz a mnoho dalších. 
+Jeho kořeny sahají až ke klasické korejské hudbě.
+
+Produkují ho korejští hudební umělci, kteří se dělí na sólo umělce a skupiny - ty se rozlišují na dívčí a chlapecké. 
+Umělci vystupují pod talentovými agenturami, těch je hned několik. Mezi největší talentové agentury patří *SM entertainment, JYP entertainment a YG entertainment.* V poslední době se do popředí dostala i menší společnost *BigHit entertainmet*, která zastupuje v současnosti nejpopulárnější chlapeckou skupinu ve světě **BTS**.
+Mezi další chlapecké skupiny patří: **EXO, NCT, GOT7, VAV, ONEUS, SUPER JUNIOR, SHINEE** aj. Mezi dívčí skupiny patří: **BLCKPINK, TWICE, MAMAMOO, MOMOLAND, DREMCATCHER, (G)I-DLE** aj. Ze sólových umělců bychom vám mohly doporučit: **TAEMIN, TAEYEON, CHUNG HA, HEIZE**.
+K-pop se odlišuje od ostatních hudebních směrů nejen hudbou, ale i vyzáží, tanečními choreografiemi a videoklipy.
+
+Video seznamující s K-popem:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixdGsF6V4OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

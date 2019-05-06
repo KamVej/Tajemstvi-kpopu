@@ -2,18 +2,19 @@ title: Tajemství K-popu a proč se stává čím dál tím víc populárním
 baseURL: https://reverent-einstein-1993a0.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: "UA-1399334873-1"
 
 menu:
   main:
-    - name: Homepage
+    - name: Domovská stránka
       url: /
       weight: 10
-    - name: Archive
+    - name: Archív
       identifier: post
       url: /post/
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Stránka zabývající se popularizací K-popu ve světě.
+  authors: Kamila Vejmelková a Hana Jakubčíková
 
