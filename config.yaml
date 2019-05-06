@@ -6,15 +6,15 @@ googleAnalytics: "UA-1399334873-1"
 
 menu:
   main:
-    - name: Homepage
+    - name: Domovská stránka
       url: /
       weight: 10
-    - name: Archive
+    - name: Archív
       identifier: post
       url: /post/
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Stránka zabývající se popularizací K-popu ve světě.
+  authors: Kamila Vejmelková a Hana Jakubčíková
 
