@@ -17,7 +17,9 @@ Jeho kořeny sahají až ke klasické korejské hudbě.
 
 Produkují ho korejští hudební umělci, kteří se dělí na sólo umělce a skupiny - ty se rozlišují na dívčí a chlapecké. 
 Umělci vystupují pod talentovými agenturami, těch je hned několik. Mezi největší talentové agentury patří *SM entertainment, JYP entertainment a YG entertainment.* V poslední době se do popředí dostala i menší společnost *BigHit entertainmet*, která zastupuje v současnosti nejpopulárnější chlapeckou skupinu ve světě **BTS**.
-Mezi další chlapecké skupiny patří: **EXO, NCT, GOT7, VAV, ONEUS, SUPER JUNIOR, SHINEE** aj. Mezi dívčí skupiny patří: **BLCKPINK, TWICE, MAMAMOO, MOMOLAND, DREMCATHER, (G)I-DLE** aj. Ze sólových umělců bychom vám mohly doporučit: **TAEMIN, TAEYEON, CHUNG HA, HEIZE**.
+Mezi další chlapecké skupiny patří: **EXO, NCT, GOT7, VAV, ONEUS, SUPER JUNIOR, SHINEE** aj. Mezi dívčí skupiny patří: **BLCKPINK, TWICE, MAMAMOO, MOMOLAND, DREMCATCHER, (G)I-DLE** aj. Ze sólových umělců bychom vám mohly doporučit: **TAEMIN, TAEYEON, CHUNG HA, HEIZE**.
 K-pop se odlišuje od ostatních hudebních směrů nejen hudbou, ale i vyzáží, tanečními choreografiemi a videoklipy.
+
 Video seznamující s K-popem:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixdGsF6V4OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
