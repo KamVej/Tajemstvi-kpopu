@@ -24,4 +24,4 @@ Video seznamující s K-popem:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixdGsF6V4OA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="http://pocitadlo.abz.cz/" title="počítadlo přístupů: pocitadlo.abz.cz"><img src="http://pocitadlo.abz.cz/aip.php?tp=bb" alt="počítadlo.abz.cz" border="1" /></a>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5cd018ceafae1465"></script>
