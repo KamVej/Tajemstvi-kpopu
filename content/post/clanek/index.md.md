@@ -1,6 +1,6 @@
 ---
 title: Hlavní znaky K-popu
-date: 2018-05-14
+date: 2019-05-14
 tags: 
     - K-pop
     - písně
